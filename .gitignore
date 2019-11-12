@@ -9,5 +9,4 @@ logs/
 .vscode
 *.swp
 *.lock
-*.js
 !.autod.conf.js
